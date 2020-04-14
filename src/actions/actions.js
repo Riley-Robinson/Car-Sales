@@ -17,13 +17,3 @@ export function removeItem(item) {
     payload: item
   }
 } 
-
-
-
-
-
-
-
-
-
-ADD_ITEM1
